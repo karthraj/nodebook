@@ -1,0 +1,20 @@
+{
+"author" : "nodeuserkarthick_r",
+"name" : "censorify_nodeuserkarthick_r",
+"version" : "1.0.0",
+"description" : "Censor Text",
+"main" : "censortext",
+"repository" : {
+	"type" : "git",
+	"url" : "https://github.com/karthraj/nodebook/tree/master/censorify"
+},
+"keywords" : [
+	"censor",
+	"words",
+	"nodeuserkarthickcensor"
+],
+"dependencies" : {},
+"engines" : {
+	"node":"*"
+}
+}
